@@ -3,7 +3,7 @@ describe ("unit test for User classs",() =>{
 
     test('Create User object ', ()=>{
         //aqui estas diciendo que codigo usaras en tu app 
-        const user =new User(1,"carlogilmar","Carlo","Bio","dataCreated","lastUpdate")
+        const user =new User(1,"carlogilmar","Carlo","Bio","dateCreated","lastUpdated")
         //Sigue la validadcion de tu codigo para tu test
          // Aquí validas los resultados de ese código
         // Esta es una comparación que va a igualar el valor de la izquierda con el valor de la derecha(valor esperado)
