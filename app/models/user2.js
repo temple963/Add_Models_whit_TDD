@@ -6,7 +6,7 @@ class User2 {
         this.username=name
         this.name=username
         this.bio=bio
-        this.dateCreated=new Date()
+        this.dateCreated= new Date()
         this.lastUpdated= new Date()
 
     }
